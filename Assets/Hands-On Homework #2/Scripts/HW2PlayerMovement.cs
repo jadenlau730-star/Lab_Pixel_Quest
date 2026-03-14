@@ -21,6 +21,7 @@ public class HW2PlayerMovement : MonoBehaviour
 	{
 		_xSpeed = Input.GetAxis(InputX);
 		_ySpeed = Input.GetAxis(InputY);
+
 		_rigidbody2D.velocity = new Vector2(_xSpeed , _ySpeed) * speed;
 	}
 

@@ -8,6 +8,10 @@ TagManager:
   - Death
   - Health
   - Coin
+  - Bounds
+  - Enemy
+  - Bullet
+  - Super Bullet
   layers:
   - Default
   - TransparentFX
