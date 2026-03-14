@@ -11,7 +11,7 @@ public class HW2PlayerShoot1 : MonoBehaviour
     private float _Scurrenttimer = 2f;
     private bool _ScanShoot = true;
 
-    private void SUpdate()
+    private void Update()
     {
     
         STimerMethod();

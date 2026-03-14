@@ -15,9 +15,30 @@ EditorBuildSettings:
     path: Assets/Scenes/Level_2.unity
     guid: f9555ef8cf6b50447922872cea2af702
   - enabled: 1
+    path: Assets/Geo_Quest/Scenes/Level 1.unity
+    guid: 8fcbbf205b9dfa043a98c17f73b8a9f0
+  - enabled: 1
     path: Assets/Geo_Quest/Scenes/Level 2.unity
     guid: ad417b024eeedf34eb11999a0fa52316
   - enabled: 1
-    path: Assets/Geo_Quest/Scenes/Level 1.unity
-    guid: 8fcbbf205b9dfa043a98c17f73b8a9f0
+    path: Assets/Geo_Quest/Scenes/Level 3.unity
+    guid: bda0bdc3bae17e649aae395380c7b1bd
+  - enabled: 1
+    path: Assets/Geo_Quest/Scenes/Level 4.unity
+    guid: 655b55338a219154bb6cdc36f0a6166a
+  - enabled: 1
+    path: Assets/Geo_Quest/Scenes/Level 5.unity
+    guid: bcd1a4b690361c04796b63f4cd4e4434
+  - enabled: 1
+    path: Assets/Geo_Quest/Scenes/Level 5.5.unity
+    guid: 8dc606287c01bb64e9299ad35b1d4505
+  - enabled: 1
+    path: Assets/Geo_Quest/Scenes/Level 6.unity
+    guid: 795218beaabeb8b418d2a7184c2e8196
+  - enabled: 1
+    path: Assets/Geo_Quest/Scenes/Level 7.unity
+    guid: a6e753259f6329b49a0c3fbde652733a
+  - enabled: 1
+    path: Assets/Geo_Quest/Scenes/Level 8.unity
+    guid: 98da2fa1dc1ff9644bf66912728d27b1
   m_configObjects: {}
