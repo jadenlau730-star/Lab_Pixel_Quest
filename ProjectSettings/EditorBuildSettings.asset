@@ -45,6 +45,9 @@ EditorBuildSettings:
     path: Assets/Geo_Quest/Scenes/Level 9.unity
     guid: 2c434a776c267474782f794c1fb6dfa1
   - enabled: 1
+    path: Assets/Geo_Quest/Scenes/Level 9.5.unity
+    guid: 337cd42d18ae7094eb03fdfd82794388
+  - enabled: 1
     path: Assets/Geo_Quest/Scenes/Level A.unity
     guid: a6e753259f6329b49a0c3fbde652733a
   - enabled: 1
